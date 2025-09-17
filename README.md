@@ -4,11 +4,11 @@ An AI-powered agent that automates university assignment workflows by ingesting 
 
 ## Project Details
 
-**Name:** [Your Name]  
-**University:** [Your University]  
-**Department:** [Your Department]  
+**Name:** Rahul RS
+**University:** IIT Kharagour
+**Department:** Civil Engineering 
 
-*Please replace the placeholders above with your actual information before submission.*
+
 
 ## Architecture
 
@@ -41,14 +41,7 @@ This repository contains all required deliverables for the assignment:
 - ✅ **Demo Documentation:** `/docs/demo_steps.md`
 - ✅ **Security Documentation:** `/docs/security.md`
 
-### Optional Demo
+
 - Demo screenshots and video walkthrough available in `/docs/demo/`
 
-## Assignment Submission
 
-Please email the repository URL to the assignment submission addresses listed in the assignment PDF.
-
----
-
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/assignment-agent)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
